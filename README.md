@@ -30,12 +30,12 @@ The **File Integrity Checker** is a lightweight Python-based GUI tool that monit
 
 ## 📁 Folder Structure
 
-file_integrity_checker/
-│
-├── gui_integrity_checker.py # Main application
-├── logs.txt # Auto-generated logs
-├── baseline.json # Saved hash baseline
-└── monitored_folder/ # User-selected folder
+### file_integrity_checker/
+### │
+### ├── gui_integrity_checker.py # Main application
+### ├── logs.txt # Auto-generated logs
+### ├── baseline.json # Saved hash baseline
+### └── monitored_folder/ # User-selected folder
 
 ---
 
